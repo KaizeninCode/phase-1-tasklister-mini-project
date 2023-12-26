@@ -60,8 +60,8 @@ If you look in the `index.html` file, you will see the following:
 
 ```html
     <form id="create-task-form" action="#" method="POST">
-      <label for="new-task-description">Task description:</label>
-      <input type="text" id="new-task-description" name="new-task-description" placeholder="description">
+      <label for="new_task_description">Task description:</label>
+      <input type="text" id="new_task_description" name="new_task_description" placeholder="description">
       <input type="submit" value="Create New Task">
     </form>
 ```
